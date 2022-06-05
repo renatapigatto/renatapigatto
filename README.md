@@ -1,4 +1,5 @@
-# Welcome to my profile 
+# Hi there! I'm Renata 😊
+
 <div>
   <a href="https://github.com/renatapigatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatapigatto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
